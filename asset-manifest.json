@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-finder/static/css/main.874b992d.css",
+    "main.js": "/book-finder/static/js/main.715e1dd1.js",
+    "index.html": "/book-finder/index.html",
+    "main.874b992d.css.map": "/book-finder/static/css/main.874b992d.css.map",
+    "main.715e1dd1.js.map": "/book-finder/static/js/main.715e1dd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.874b992d.css",
+    "static/js/main.715e1dd1.js"
+  ]
+}
